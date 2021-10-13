@@ -13,7 +13,7 @@ Sobre mim:
 🦊 Quando me perguntaram o que eu queria ser ? há uns anos atrás a minha resposta foi "SER HOKAGE" e hoje sou programador e futuro engenheiro, nada a ver. 
 
 ## Skills 🤓
-<hr>
+
 
 ## Contato 📱
 
@@ -26,3 +26,10 @@ Sobre mim:
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattSilverio&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
