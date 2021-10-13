@@ -24,7 +24,7 @@ Sobre mim:
 
 ## Status
 
-<p><span src='(https://github-readme-stats.vercel.app/api?username=MattSilverio&show_icons=true&theme=radical)'> <span src='https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact><p>
+<img src='https://github-readme-stats.vercel.app/api?username=MattSilverio&show_icons=true&theme=radical'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact)]
 
