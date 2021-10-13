@@ -29,3 +29,16 @@ Sobre mim:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact)]
 
 
+<div class="box">
+    <img src="https://github-readme-stats.vercel.app/api?username=MattSilverio&show_icons=true&theme=radical"/>
+</div>
+<div class="box">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact"/>
+</div>
+
+<style>
+div.box {
+	width: 150px;
+	display: inline-block;
+}
+</style>
