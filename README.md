@@ -9,9 +9,7 @@ Sobre mim:
 
 👨‍🎓 Estudante de Engenharia Eletrônica, atualmente estou cursando o 8° semestre.
 
-🎯 Interesses: HTML, CSS, JavaScript, Angular, React, Node e Python.
-
-🦊 Quando me perguntaram o que eu queria ser ? há uns anos atrás a minha resposta foi "SER HOKAGE" e hoje sou programador e futuro engenheiro, nada a ver. 
+🎯 Interesses: HTML, CSS, JavaScript, Angular, React, Node e Python. 
 
 <!---
 ###Skills 🤓💻
