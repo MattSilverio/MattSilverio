@@ -1,6 +1,6 @@
 ### Olá, eu sou o Matheus! 
 
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsnHVHrn-9HAycJ97CwXteCgEF3nFVPRBkaQ&usqp=CAU'/> 
+<img position='center' src='https://i.imgur.com/SQUhP5T.gif'/> 
 
 
 Sobre mim:
