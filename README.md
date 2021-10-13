@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**MattSilverio/MattSilverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+
+Olá, eu sou o Matheus! 
+Sobre mim
+👨‍💻 Estagiário de desenvolvimento de software no Instituto de Pesquisas Eldorado.
+👨‍🎓 Estudante de Engenharia Eletrônica, atualmente estou cursando o 8° semestre.
+🎯 Interesses: HTML, CSS, JavaScript, Angular, React, Node e Python.
+🦊 Quando me perguntaram o que eu queria ser ? há uns anos atrás a minha resposta foi "SER HOKAGE" e hoje sou engenheiro de software, nada a ver. Fã do anime Naruto , bora assistir uns filler juntos ?
+:outbox_tray: 2021 Goals:
+                                                                                                                        
+
+Contato 📱
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+                      
+
+Total de Visitas no perfil 🕵️
