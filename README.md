@@ -31,9 +31,9 @@ Sobre mim:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact"/>
 </div>
 
-<style>
-div.box {
-	width: 150px;
-	display: inline-block;
-}
-</style>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattSilverio&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact" />
+</a>
