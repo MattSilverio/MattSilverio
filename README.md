@@ -1,6 +1,6 @@
 ### Olá, eu sou o Matheus! 
 
-<img position='center' src='https://i.imgur.com/SQUhP5T.gif'/> 
+<img align='center' src='https://i.imgur.com/SQUhP5T.gif'/> 
 
 
 Sobre mim:
@@ -13,21 +13,15 @@ Sobre mim:
 
 🦊 Quando me perguntaram o que eu queria ser ? há uns anos atrás a minha resposta foi "SER HOKAGE" e hoje sou programador e futuro engenheiro, nada a ver. 
 
-## Skills 🤓
-
+<!---
+###Skills 🤓💻
+--->
 
 ## Contato 📱
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/MattSilverio)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/matheusphillipo/)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="(https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/MattSilverio)" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact" />
-</a>
-
 
 ## Status
 
