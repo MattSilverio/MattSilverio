@@ -25,8 +25,6 @@ Sobre mim:
 
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattSilverio&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact)]
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MattSilverio&show_icons=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact" />
 
