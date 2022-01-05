@@ -15,10 +15,10 @@ Sobre mim:
 ## Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattSilverio&show_icons=true&theme=gothan" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MattSilverio&show_icons=true&theme=gothan" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact" />
 </a>
 
 <!-- ## Skills 🤓💻 -->
@@ -27,4 +27,4 @@ Sobre mim:
 
 ## Contato 📱
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/MattSilverio)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/matheusphillipo/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/MattSilverio) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/matheusphillipo/)
