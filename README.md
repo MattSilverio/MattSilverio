@@ -16,7 +16,7 @@ Sobre mim:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattSilverio&theme=gothan&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact&theme=gothan" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact" />
 </a>
 <!-- ## Skills 🤓💻 -->
 
