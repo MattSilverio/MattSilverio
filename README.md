@@ -13,12 +13,12 @@ Sobre mim:
 ## Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattSilverio&theme=dark&show_icons=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MattSilverio&theme=dark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact" />
-</a>
+</a> -->
 <!-- ## Skills 🤓💻 -->
 
 
