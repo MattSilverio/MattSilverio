@@ -6,21 +6,19 @@
 Sobre mim:
 
 👨‍💻 Estagiário de desenvolvimento de software no Instituto de Pesquisas Eldorado.
-
 👨‍🎓 Estudante de Engenharia Eletrônica, atualmente estou cursando o 8° semestre.
-
 🎯 Interesses: HTML, CSS, JavaScript, Angular, React, Node e Python. 
 
 
 ## Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattSilverio&show_icons=true&theme=gothan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattSilverio&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact" />
 </a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+(https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <!-- ## Skills 🤓💻 -->
 
 
