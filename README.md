@@ -7,9 +7,9 @@ Sobre mim:
 
 👨‍💻 Estagiário de desenvolvimento de software no Instituto de Pesquisas Eldorado.
 
-👨‍🎓 Estudante de Engenharia Eletrônica, atualmente estou cursando o 8° semestre.
+👨‍🎓 Graduando de Engenharia Eletrônica.
 
-🎯 Interesses: HTML, CSS, JavaScript, Angular, React, Node e Python. 
+🎯 Interesses: HTML, CSS, JavaScript, React, Node e Python. 
 
 
 ## Status
@@ -21,7 +21,7 @@ Sobre mim:
 </a>
 
 ## Skills 🤓💻🚀
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image]
 
 ## OS 💻📱
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
