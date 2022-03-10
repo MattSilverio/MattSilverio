@@ -12,7 +12,7 @@ Sobre mim:
 ## Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style='display: inline;' src="https://github-readme-stats.vercel.app/api?username=MattSilverio&show_icons=true&theme=gothan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MattSilverio&show_icons=true&theme=gothan" />
   <img style="display: inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact&theme=gothan" />
 </a>
 
