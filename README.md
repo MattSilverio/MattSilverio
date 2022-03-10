@@ -1,15 +1,12 @@
 ### Olá, eu sou o Matheus! 
 
-<img align='center' src='https://i.imgur.com/SQUhP5T.gif'/> 
-
-
 Sobre mim:
 
-👨‍💻 Estagiário de desenvolvimento de software no Instituto de Pesquisas Eldorado.
+👨‍💻 Estagiário de desenvolvimento de software.
 
 👨‍🎓 Graduando de Engenharia Eletrônica.
 
-🎯 Interesses: HTML, CSS, JavaScript, React, Node e Python. 
+🎯 Interesses: HTML, CSS, JavaScript, React e Python. 
 
 
 ## Status
