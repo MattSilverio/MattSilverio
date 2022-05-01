@@ -12,8 +12,8 @@ Sobre mim:
 ## Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=MattSilverio&show_icons=true&theme=gothan" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSilverio&layout=compact&theme=gothan" />
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MattSilverio&theme=blue-green)]
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MattSilverio&theme=blue-green)]
 </a>
 
 ## Skills 🤓💻🚀
