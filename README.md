@@ -2,11 +2,11 @@
 
 Sobre mim:
 
-👨‍💻 Desenvolvedor Front-End e Estagiário de Desenvolvimento de Software.
+👨‍💻 Desenvolvedor e Estagiário de Desenvolvimento Web.
 
-👨‍🎓 Estudante de Engenharia Eletrônica
+👨‍🎓 Estudante de Engenharia de Software
 
-🎯 Interesses: Dev Front-End (HTML, CSS, Javascript, Sass, React, Styled-Components) ; Dev Back-End (Node.js , Javascript) ; Dev Mobile (React Native)
+🎯 Interesses: Front-End (Javascript, Sass, React, Styled-Components, TailwindCSS) ; Back-End (Node.js , Express.js) ; Mobile ( De olho no React Native)
 
 
 ## Status
