@@ -2,11 +2,11 @@
 
 Sobre mim:
 
-👨‍💻 Desenvolvedor e Estagiário de Desenvolvimento Web.
+👨‍💻 Analista de Sistemas.
 
-👨‍🎓 Estudante de Engenharia de Software
+👨‍🎓 Estudante de Engenharia de Software.
 
-🎯 Interesses: Front-End (Javascript, Sass, React, Styled-Components, TailwindCSS) ; Back-End (Node.js , Express.js) ; Mobile ( De olho no React Native)
+🎯 Interesses: Front-End (React.js, Styled-Components, TailwindCSS) ; Back-End (Node.js , Express.js) ; Mobile (React Native)
 
 
 ## Status
