@@ -2,7 +2,6 @@
 
 Sobre mim:
 
-👨‍💻 Analista de Sistemas.
 
 👨‍🎓 Estudante de Engenharia de Software.
 
