@@ -1,11 +1,11 @@
-### Olá, eu sou o Matheus! 
+### Hello, I'm Matheus! 
 
-Sobre mim:
+About me:
 
 
-👨‍🎓 Estudante de Engenharia de Software.
+👨‍🎓 Software Engineerign Student.
 
-🎯 Interesses: Front-End (React.js, Styled-Components, TailwindCSS) ; Back-End (Node.js , Express.js) ; Mobile (React Native)
+🎯 Interesded in: Front-End Development(React.js, Next.js, Styled-components; TailwindCSS) ; Back-End Development (Node.js , Express.js) ; Mobile (React Native)
 
 
 ## Status
