@@ -6,7 +6,7 @@ About me:
 
 👨‍🎓 Software Engineering by UnB.
 
-🎯 Interested in: Front-End Development, Back-End Development (Node.js , Express.js) and Gaming Development (Unreal Engine, C++)
+🎯 Interested in: Full-Stack Development (React.js, Angular, React Native, Node.js , Express.js) and Gaming Development (Unreal Engine, C++)
 
 
 ## Status
