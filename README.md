@@ -6,7 +6,7 @@ About me:
 
 👨‍🎓 Software Engineering by UnB.
 
-🎯 Interested in: Full-Stack Development (React.js, Angular, React Native, Node.js , Express.js) and Gaming Development (Unreal Engine, C++)
+🎯 Interested in: Full-Stack Development with JS Stack (React.js, React Native, Node.js) and Gaming Development (Unreal Engine, C++)
 
 
 ## Status
@@ -25,7 +25,6 @@ About me:
 ## Coding Challenges
 
 - Technologies
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 - Platforms
@@ -34,9 +33,6 @@ About me:
 
 ## OS 💻📱
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-## Gaming 🎮
-![image](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white) ... Meet me there - JetMattBrazil
 
 ## Contact 📱
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MattSilverio) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusphillipo/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matt_fis/)
