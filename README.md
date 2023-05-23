@@ -13,8 +13,7 @@ Meet AILab on https://ailab.unb.br . Currently I work as Developer Assistant the
 ## Status
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattsilverio&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattsilverio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MattSilverio)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattsilverio)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hard Skills 🤓💻🚀
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
