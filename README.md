@@ -23,6 +23,9 @@ Meet AILab on https://ailab.unb.br . Currently I work as Developer Assistant the
 ![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+
+![WakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=MattSilverio&hide_title=true&hide_border=true&bg_color=00000000&text_color=777&range=last_7_days&layout=compact)
+
 ## Coding Challenges
 
 - Technologies
