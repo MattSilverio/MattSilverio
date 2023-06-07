@@ -2,12 +2,12 @@
 
 About me:
 
-💻 I work as Software Engineer and I consider myself a truly curious person for code. I love to spend some hours training my skills on sites like Codeforces and BeeCrowd. In long term, I pretend to be working on a disruptive technology involved with gaming development in order to make the world a better place
+💻 I work as Software Engineer and I consider myself a truly curious person for code. I love to spend some hours training my skills on sites like Codeforces and BeeCrowd. 
 
-👨‍🎓 Software Engineering by UnB.
+👨‍🎓 Software Engineering by University of Brasilia.
 Meet AILab on https://ailab.unb.br . Currently I work as Developer Assistant there, we develop AI solutions.
 
-🎯 Interested in: Full-Stack Development with JS Stack (React.js, React Native, Node.js) and Gaming Development (Unreal Engine, C++)
+🎯 Interested in: Full-Stack Development with JS Stack (React.js, React Native, Node.js) and Gaming Development (Unreal, C++)
 
 
 ## Status
