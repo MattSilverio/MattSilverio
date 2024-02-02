@@ -2,7 +2,7 @@
 
 About me:
 
-💻 Just a simple Software engineer. Currently working at BRB Seguros and Servicefy. Also, member of [Bichinhos da TI](https://www.linkedin.com/company/bichinhos-da-ti/?trk=organization_guest_main-feed-card_feed-actor-image) working as Leader of Cyber security
+💻 Just a simple Software engineer. Currently working at BRB Seguros. Also, member of [Bichinhos da TI](https://www.linkedin.com/company/bichinhos-da-ti/?trk=organization_guest_main-feed-card_feed-actor-image) working as Leader of Cyber security
 
 👨‍🎓 Undergraduating on Major of Software Engineering
 
