@@ -2,7 +2,7 @@
 
 - Major in Software Engineering and MBA in Full Cycle Architecture. Now, focusing in Application Security and Offensive Security
 
-- 💻 Just a Software Engineer with focus on Application Security and Backend Development. Currently working at BRB Seguros as Cybersecurity Analyst.                      
+- 💻 Just a Software Engineer with focus on Application Security and Backend Development. Currently working at Eurofins as Senior Software Engineer.                      
 
 
 ## Contact 📱
